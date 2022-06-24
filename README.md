@@ -1,5 +1,3 @@
-# A Collection of Lua Files for LMAOBOX Beta.
+# An unofficial update to vmoverride.lua
 
-Some bad luas I made. You can find better scripts on the [offical forums](https://lmaobox.net/forum/v/categories/lua-scripts) and if you have any experence coding yourself the docs can be found [here](https://lmaobox.net/lua/)
-
-Making and adding more soon.
+I updated the lua to add viewmodel sway offsets. You're gonna have to change the offsets yourself in the lua to get it to what you want.
