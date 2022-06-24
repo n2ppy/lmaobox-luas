@@ -3,7 +3,7 @@
 	Credits to GitHub user Xee45 for the original LUA https://github.com/Xee545/lmaobox-luas/blob/main/vmoverride.lua
 	Viewmodel Offsets will not work with tf_use_min_viewmodels. This is hardcoded in TF2.
 	
-	You'll have to set the viewmodel overrides yourself. 
+	You'll have to set the viewmodel overrides in this LUA yourself if you want to keep your changes. 
 ]]
 
 local x = 0
