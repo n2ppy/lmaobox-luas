@@ -7,8 +7,8 @@
 ]]
 
 local x = 0
-local y = 0
-local z = 0
+local y = -10
+local z = -7
 local sway = 0
 local interp = 0
 
